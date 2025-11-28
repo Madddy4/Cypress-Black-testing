@@ -6,6 +6,6 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     "projectId": "onzada",
-    
+    baseUrl: "http://localhost:3000",
   },
 });
